@@ -1,9 +1,9 @@
 div.quote {
   blockquote {
-    background-color: gray;
+    background-color: #dddd;
   }
   
   .author {
-    background-color: gray;
+    background-color: #eeee;
   }
 }
